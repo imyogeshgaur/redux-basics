@@ -1,0 +1,21 @@
+{
+  "name": "redux",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon async"
+  },
+  "type": "commonjs",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.2.2",
+    "redux": "^4.2.0",
+    "redux-thunk": "^2.4.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
